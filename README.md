@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Software Engineer | Full-Stack Developer | Chemical Process Engineer | Artificial Intelligence enthusiast |<br>Lefkosa, Cyprus 
+Software Engineer | Full-Stack Developer | Chemical Process Engineer | Artificial Intelligence enthusiast |<br> Cyprus 
 
 
 ## 🌐 Socials:
